@@ -1,6 +1,6 @@
 # Restaurant Management System
 
-This repository contains the project files for the Restaurant Management System, a mini-project developed by Sukhumjeet Singh, Tamanna Dash & Tanisha Jain under the guidance of Dr. G. Usha, Associate Professor in the Department of Computing Technologies at SRM Institute of Science and Technology. This project was completed as part of the course 21CSC205P – Database Management Systems in the Computer Science and Engineering program.
+This repository contains the project files for the Restaurant Management System, a mini-project developed by Iteesha Jaiswal under the guidance of Dr. G. Usha, Associate Professor in the Department of Computing Technologies at SRM Institute of Science and Technology. This project was completed as part of the course 21CSC205P – Database Management Systems in the Computer Science and Engineering program.
 
 ## Project Overview
 
@@ -24,7 +24,7 @@ The Restaurant Management System is designed to manage and streamline various as
 6. [Acknowledgments](#acknowledgments)
 
 ## E-R Diagram
-![Architecture Diagram](https://github.com/sukhum29/RestaurantSystem/blob/main/Blank%20diagram-6.png?raw=true)
+![Architecture Diagram](https://github.com/Iteesha04/RestaurantSystem/blob/main/Blank%20diagram-6.png?raw=true)
 
 ## Tables
 
@@ -80,7 +80,3 @@ The front-end of the Restaurant Management System includes the following key com
 ## Acknowledgments
 
 - Dr. G. Usha, Associate Professor, Department of Computing Technologies, SRM Institute of Science and Technology
-
----
-
-Feel free to contribute to this project by forking the repository and submitting pull requests. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.# RestaurantSystem
